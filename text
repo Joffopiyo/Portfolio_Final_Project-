@@ -1,0 +1,24 @@
+project-folder/
+├── index.html
+├── about.html
+├── services.html
+├── portfolio.html
+├── contact.html
+├── css/
+│   └── style.css
+├── js/
+│   ├── main.js
+│   ├── portfolio.js
+│   └── form-validation.js
+├── images/
+│   ├── hero-image.jpg
+│   ├── about-image.jpg
+│   ├── about-detail.jpg
+│   └── portfolio/
+│       ├── project1.jpg
+│       ├── project2.jpg
+│       ├── project3.jpg
+│       ├── project4.jpg
+│       ├── project5.jpg
+│       └── project6.jpg
+└── README.md
